@@ -35,18 +35,6 @@ layout: default
     - 8.3 [框架目录设计与逻辑架构与 ECB 的关系](08-03-relationship-between-ECB-framework-directory-design-logic-archit)
     - 8.4 [部署文档](08-04-deployment-doc)
 * X1 meet_recording
-    - [Inception meeting (2018/03/23)](X1-inception-meeting)
-    - [Iteration 1 meeting (2018/04/09)](X1-iteration1-meeting)
-    - [Iteration 2 meeting (2018/05/09)](X1-iteration2-meeting)
-    - [Iteration 3 meeting (2018/06/30)](X1-iteration3-meeting)
-* [X2 Tech/Work Report](X2-techwork-report)
-* [X3 Final Report](X3-final-report)
-    - [15331253-ECer23](https://www.jianshu.com/p/edae2a252471)
-    - [15331238-BeAShper](https://blog.csdn.net/beashaper_/article/details/80871901)
-    - [15331229-longjj](https://www.zybuluo.com/longj/note/1198045)
-    - [15331200-YungLinjy](https://blog.csdn.net/yung_lin/article/details/80869708)
-    - [15331251-Arururururu](https://github.com/Arururururu/SAD/blob/master/X3-final-report.md)
+* X2 Tech/Work Report
+* X3 Final Report
 * XX 建模练习
-    - [XX1 Google Tranlate 应⽤](XX1-google-translate-app)
-    - [XX2 建模要求](XX2-modeling-requirements)
-    - [XX3 建模者答案与评价](XX3-modeling-answer)
