@@ -10,7 +10,7 @@ layout: default
 * 2、[Team profile 团队组建](02-团队与分工)
 * 3、[Investigation 项目前期调研](03-竞品分析报告指南)
 * 4、[Vision 项目愿景](04-vision)
-* 5、[Product Backlog 产品特性](05-product-backlog)
+* 5、[Product Backlog 产品特性](05-初级产品特征库)
 * 6、[Requirement specification 需求规格说明](06-需求规格说明书)
     - 6.1 [Usecase Diagram](06-01-usecase-diagram)
     - 6.2 [Use Cases 用例+活动图](06-02-use-cases)
