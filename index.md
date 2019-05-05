@@ -12,7 +12,7 @@ layout: default
 * 4、[Vision 项目愿景](04-vision)
 * 5、[Product Backlog 产品特性](05-初级产品特征库)
 * 6、[Requirement specification 需求规格说明](06-需求规格说明书)
-    - 6.1 [Usecase Diagram](06-01-usecase-diagram)
+    - 6.1 [Usecase Diagram](06-01-用例图)
     - 6.2 [Use Cases 用例+活动图](06-02-use-cases)
     - 6.3 [Domian Model 领域模型](06-03-domain-model)
     - 6.4 [State Model 状态模型](06-04-state-model)
