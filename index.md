@@ -20,7 +20,8 @@ layout: default
     - 6.6 [Supplementary Requirements 补充性说明](06-06-补充性说明)
 * 7、[Design 设计](07-软件设计说明书)
     - 7.1 UI design UI 设计
-        - [XX 用例 UI 设计](07-01-01-XX-UI设计)
+        - [PC端UI设计](07-01-01-PC端-UI设计)
+        - [小程序端UI设计](07-01-02-小程序端-UI设计.md)
     - 7.2 Database design 数据库设计
         - 7.2.1 [用户及权限系统数据库设计](07-02-01-数据库设计)
         - 7.2.2 [数据库ER模型图](07-02-02-ER模型)
