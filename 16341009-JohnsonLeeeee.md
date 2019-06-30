@@ -14,15 +14,15 @@
 |     PSP 2.1     | Personal Software Process Stages | Time (%) Senior Student |
 | :-------------: | :------------------------------: | :---------------------: |
 |  **Planning**   |               计划               |           10            |
-|   — Estimate    |            估算任务量             |           10            |
+|    Estimate    |            估算任务量             |           10            |
 | **Development** |               开发               |           75            |
 |     learning    |     学习需要用到的技术             |           10            |
 |     Analysis    |             UI分析               |           25            |
 |    Coding       |             编码                 |           30            |
 |   Debug         |              测试修改             |           10            |
 |   **Report**    |               报告               |           15            |
-|    — Summary    |             总结报告             |            8            |
-|     — Blog      |             项目博客             |            7            |
+|     Summary    |             总结报告             |            8            |
+|      Blog      |             项目博客             |            7            |
 
 ## 自己最得意的工作清单
 
