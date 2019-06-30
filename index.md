@@ -27,7 +27,7 @@ layout: default
         - 7.2.2 [数据库ER模型图](07-02-02-ER模型)
         - 7.2.3 XX子系统数据课设计
         - 7.2.x [第三方数据评审结果](07-02-03-第三方数据评审结果)
-    - 7.3 [API 设计]([https://github.com/JohnsonLeeeee/SYSU-xiaoxin-catering/blob/master/document_files/api%E6%96%87%E6%A1%A3.pdf](https://github.com/JohnsonLeeeee/SYSU-xiaoxin-catering/blob/master/document_files/api文档.pdf))
+    - 7.3 [API 设计](https://github.com/JohnsonLeeeee/SYSU-xiaoxin-catering/blob/master/document_files/api文档.pdf)
     - 7.4 [软件架构文档](07-04-软件架构文档)
     - 7.5 [用例设计](07-05-用例设计)
 * 8、生产规范与指南
