@@ -46,6 +46,7 @@ layout: default
 * [X4 技术与工作报告](X4-技术与工作报告)
 * X5 最终报告
     * [15335139-lordrou](15335139-lordrou)
+    * [15331445-Zhuyuze](15331445-zhuyuze.md)
     * [16340012-Nathan](https://leonharde.github.io/2019/06/27/Finalreport)
     * [16341022-zxydashagou](https://www.cnblogs.com/zxydashagou/p/11106063.html)
     * [16341009-JohnsonLeeeee](https://johnsonleeeee.github.io/Summary/)
